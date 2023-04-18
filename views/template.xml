@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+    <template id="car_id">
+        <div t-name="Greeter" class="greeter" t-on-click="toggle">
+
+        </div>
+        <t t-name="Root">
+        </t>
+    </template>
+</odoo>
